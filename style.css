@@ -45,6 +45,11 @@ button.navbar-toggle {
 
 #firmaahora{    background: #fff1f6;}
 
+#firmaahora h2{    margin-bottom: 50px;
+    color: #fa74a8;
+    font-weight: 900;
+    font-size: 36px;}
+
 .jumbotron {background:#2cabe5;}
 
 input, textarea {
@@ -53,7 +58,7 @@ border-radius: 0px;
     padding: 14px 20px;
     margin-bottom: 20px;
     width: 100%;
-    border: 1px solid #dedede;
+    border: 1px solid #ffb9d4;
 }
 
 .btn-inverse {
