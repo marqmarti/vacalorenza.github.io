@@ -17,3 +17,57 @@ button.navbar-toggle {
     float: left;
     margin-left: 10px;
 }
+
+
+.seccio {
+    padding: 30px 0;
+}
+.seccio {
+    border-bottom: 1px solid #EAEAEA;
+}
+
+
+
+
+/* DESKTOP */
+
+@media (min-width: 979px) {
+
+    .seccio {
+        padding: 70px 0;
+    }
+    .container {
+        max-width: 980px;
+    }
+    .cap {
+        padding: 100px 0;
+    }
+    .nav-pills>li>a {
+        padding: 10px;
+        font-size: 14px;
+        color: #666;
+        font-weight: 400;
+    }
+
+
+
+
+
+}
+
+
+/* TABLET */
+
+@media screen and (min-width: 768px) {
+
+    .seccio:nth-of-type(0) {
+        padding-top: 0px !important;
+    }
+}
+
+
+/* TELEFON */
+
+@media screen and (max-width: 767px) {
+
+}
