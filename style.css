@@ -45,6 +45,7 @@ border-radius: 0px;
     border-radius: 0px;
     border: 2px solid #fff;
     color: #fff;
+    text-shadow: none !important;
 }
 .btn-inverse:hover {
     border: 2px solid #fff;
