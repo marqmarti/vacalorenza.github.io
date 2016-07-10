@@ -43,6 +43,8 @@ button.navbar-toggle {
     border-bottom: 1px solid #EAEAEA;
 }
 
+#firmaahora{    background: #fff1f6;}
+
 .jumbotron {background:#2cabe5;}
 
 input, textarea {
@@ -51,6 +53,7 @@ border-radius: 0px;
     padding: 14px 20px;
     margin-bottom: 20px;
     width: 100%;
+    border: 1px solid #dedede;
 }
 
 .btn-inverse {
