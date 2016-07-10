@@ -54,6 +54,26 @@ border-radius: 0px;
 }
 
 
+.btn-pink {
+    background: none;
+    border-radius: 0px;
+    border: 2px solid #fa74a8;
+    color: #fa74a8;
+    text-shadow: none !important;
+}
+
+
+.btn-pink:hover {
+    border: 2px solid #fa74a8;
+    background: #fa74a8;
+    color: #fff;
+}
+
+
+
+
+
+
 .jumbotron {margin-bottom: 0px}
 
 .jumbotron h1, .jumbotron p {color: #fff}
