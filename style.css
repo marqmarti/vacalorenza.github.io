@@ -24,7 +24,11 @@ button.navbar-toggle {
 .twitterbutton {float: right;
     margin-top: 12px;}
 
-
+.jumbotron .btn {
+    padding: 18px;
+    min-width: 250px;
+    font-size: 22px;
+}
 
 .seccio {
     padding: 30px 0;
