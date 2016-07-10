@@ -76,10 +76,10 @@ border-radius: 0px;
 
 
 .btn-pink {
-    background: none;
+    background: #2cabe5;
     border-radius: 0px;
-    border: 2px solid #fa74a8;
-    color: #fa74a8;
+    border: 2px solid #2cabe5;
+    color: #ffffff;
     text-shadow: none !important;
     font-size: 26px;
 }
