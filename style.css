@@ -205,4 +205,15 @@ input, textarea {
 
 @media screen and (max-width: 767px) {
 
+
+
+.navbar.navbar-inverse.navbar-static-top.visible-sm-block.visible-xs-block a.navbar-brand {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+}
+
+
+
+
 }
