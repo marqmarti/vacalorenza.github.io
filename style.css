@@ -26,7 +26,7 @@ button.navbar-toggle {
     border-bottom: 1px solid #EAEAEA;
 }
 
-
+.jumbotron {background:#2cabe5;}
 
 input, textarea {
     border-radius: 0px;
