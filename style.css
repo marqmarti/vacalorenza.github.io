@@ -33,6 +33,13 @@ input, textarea {
     box-shadow: inherit;
     padding: 26px 20px;
     margin-bottom: 20px;
+    width: 100%;
+}
+
+
+.navbar-inverse {
+    background: #fd78aa;
+    border-bottom: 1px solid #ce1e60;
 }
 
 
