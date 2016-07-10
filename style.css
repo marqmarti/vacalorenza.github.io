@@ -25,6 +25,14 @@
     border-top: 1px solid #ff287b !important;
 }
 
+.jumbotron p {
+    margin-bottom: 15px;
+    font-size: 21px;
+    font-weight: 600;
+    text-shadow: none;
+    line-height: 30px;
+}
+
 
 h1, h2, h3, h4, h5. h6 {font-family: 'Montserrat'; font-weight: bold}
 
