@@ -245,6 +245,12 @@ input, textarea {
     font-size: 26px;
 }
 
+
+.mkt h2 {
+    font-size: 25px;
+    margin-bottom: 15px;
+}
+
 #firmaahora {padding:80px 0;}
 
 .footer {text-align: center}
