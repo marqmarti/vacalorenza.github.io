@@ -40,6 +40,18 @@ border-radius: 0px;
     width: 100%;
 }
 
+.btn-inverse {
+    background: none;
+    border-radius: 0px;
+    border: 2px solid #fff;
+    color: #fff;
+}
+.btn-inverse:hover {
+    border: 2px solid #fff;
+    background: #fff;
+    color: #000;
+}
+
 
 
 
