@@ -26,11 +26,12 @@
 }
 
 .jumbotron p {
-    margin-bottom: 15px;
-    font-size: 21px;
-    font-weight: 600;
+    font-size: 20px;
+    font-weight: 100;
     text-shadow: none;
-    line-height: 30px;
+    line-height: 27px;
+    font-family: 'Open sans';
+    margin-bottom: 33px;
 }
 
 
