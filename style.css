@@ -213,6 +213,8 @@ input, textarea {
     width: 100%;
 }
 
+.mkt .col-md-4 {margin-bottom: 40px}
+
 
 .jumbotron h1 {
     margin-bottom: 40px;
