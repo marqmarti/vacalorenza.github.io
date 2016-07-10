@@ -17,6 +17,14 @@
     max-width: 800px;
 }
 
+.seccio.footer {
+    background: #fa74a8;
+    color: #fff;
+    padding: 30px 0 !important;
+    border-bottom: 0px;
+    border-top: 1px solid #ff287b !important;
+}
+
 
 h1, h2, h3, h4, h5. h6 {font-family: 'Montserrat'; font-weight: bold}
 
@@ -46,7 +54,8 @@ button.navbar-toggle {
     border-bottom: 1px solid #EAEAEA;
 }
 
-#firmaahora{    background: #fff1f6;}
+#firmaahora{       background: #fff1f6;
+    border-bottom: 0px;}
 
 #firmaahora h2{    margin-bottom: 50px;
     color: #fa74a8;
