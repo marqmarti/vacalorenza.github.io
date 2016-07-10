@@ -54,6 +54,10 @@ button.navbar-toggle {
     border-bottom: 1px solid #EAEAEA;
 }
 
+.jumbotron img {
+    max-width: 255px;
+}
+
 #firmaahora{       background: #fff1f6;
     border-bottom: 0px;}
 
