@@ -214,6 +214,35 @@ input, textarea {
 }
 
 
+.jumbotron h1 {
+    margin-bottom: 40px;
+    margin-top: 30px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 17px;
+    font-weight: 100;
+    text-shadow: none;
+    line-height: 25px;
+    font-family: 'Open sans';
+    margin-bottom: 33px;
+    text-align: left;
+}
+
+.seccio.perro h2{margin-top: 50px;
+    margin-bottom: 40px;
+    font-size: 26px;
+    text-align: center;}
+
+
+#firmaahora h2 {
+    color: #fa74a8;
+    font-weight: 900;
+    font-size: 26px;
+}
+
 
 
 }
