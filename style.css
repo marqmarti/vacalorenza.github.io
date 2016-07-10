@@ -29,9 +29,9 @@ button.navbar-toggle {
 .jumbotron {background:#2cabe5;}
 
 input, textarea {
-    border-radius: 0px;
+border-radius: 0px;
     box-shadow: inherit;
-    padding: 26px 20px;
+    padding: 14px 20px;
     margin-bottom: 20px;
     width: 100%;
 }
