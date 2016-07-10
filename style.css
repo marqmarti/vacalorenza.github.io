@@ -148,19 +148,19 @@ textarea {
 .well {background: #f9f9f9; box-shadow: none; padding:30px; margin:50px 0; border-radius: 0px}
 
 ::-webkit-input-placeholder {
-   color: red;
+   color: #ffc7dd;
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: red;  
+   color: #ffc7dd;  
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: red;  
+   color: #ffc7dd;  
 }
 
 :-ms-input-placeholder {  
-   color: red;  
+   color: #ffc7dd;  
 }
 
 
