@@ -18,6 +18,10 @@ button.navbar-toggle {
     margin-left: 10px;
 }
 
+.twitterbutton {float: right;
+    margin-top: 12px;}
+
+
 
 .seccio {
     padding: 30px 0;
