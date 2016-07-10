@@ -135,6 +135,11 @@ input, textarea {
 }
 
 
+.jumbotron h3 a {
+    color: #105d9e;
+    text-decoration: none;
+}
+
 
 
 .jumbotron {margin-bottom: 0px}
