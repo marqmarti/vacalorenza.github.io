@@ -125,7 +125,14 @@ input, textarea {
     color: #fff;
 }
 
-
+.jumbotron h3 {
+    margin-top: -10px;
+    margin-bottom: 30px;
+    color: #fff;
+    text-shadow: none;
+    font-family: 'Open sans';
+    font-weight: 300;
+}
 
 
 
