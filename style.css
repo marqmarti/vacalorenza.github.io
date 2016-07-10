@@ -7,7 +7,7 @@ body {
     font-weight: 400;
 }
 .jumbotron .container {
-    max-width: 800px;
+    max-width: 860px;
 }
 .seccio.footer {
     background: #2cabe5;
@@ -76,9 +76,7 @@ button.navbar-toggle {
     font-weight: 900;
     font-size: 36px;
 }
-.jumbotron {
-    background: #2cabe5;
-}
+
 input,
 textarea {
     border-radius: 0px;
@@ -134,7 +132,11 @@ textarea {
 }
 .jumbotron {
     margin-bottom: 0px
+    background: #2cabe5;
 }
+
+
+
 .jumbotron h1,
 .jumbotron p {
     color: #fff
