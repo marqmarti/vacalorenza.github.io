@@ -129,7 +129,7 @@ input, textarea {
     margin-top: -10px;
     margin-bottom: 30px;
     color: #fff;
-    text-shadow: none;
+    text-shadow: none !important;
     font-family: 'Open sans';
     font-weight: 300;
 }
