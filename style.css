@@ -28,6 +28,14 @@ button.navbar-toggle {
 
 
 
+input, textarea {
+    border-radius: 0px;
+    box-shadow: inherit;
+    padding: 26px 20px;
+    margin-bottom: 20px;
+}
+
+
 
 /* DESKTOP */
 
