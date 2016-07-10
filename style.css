@@ -67,8 +67,14 @@ border-radius: 0px;
     border: 2px solid #fa74a8;
     color: #fa74a8;
     text-shadow: none !important;
+    font-size: 26px;
 }
 
+
+.atrocidad{font-size: 13px;
+    font-weight: bold;
+    margin-top: 8px;
+    margin-bottom: 11px;}
 
 .btn-pink:hover {
     border: 2px solid #fa74a8;
