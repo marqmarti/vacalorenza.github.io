@@ -71,11 +71,20 @@ button.navbar-toggle {
     border-bottom: 0px;
 }
 #firmaahora h2 {
-    margin-bottom: 50px;
+    margin-bottom: 0px;
     color: #fa74a8;
     font-weight: 900;
     font-size: 36px;
 }
+
+#firmaahora h3 {
+    margin-bottom: 50px;
+    color: #fa74a8;
+    font-weight: 300;
+    font-size: 24px;
+}
+
+
 
 input,
 textarea {
