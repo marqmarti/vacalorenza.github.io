@@ -174,8 +174,7 @@ textarea {
 
 
 
-.mitjans img {width: 100%}
-
+.mitjans img {width: 100%; max-width: 200px}
 
 /* DESKTOP */
 
